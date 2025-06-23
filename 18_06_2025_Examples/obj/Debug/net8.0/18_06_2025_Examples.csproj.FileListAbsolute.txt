@@ -1,0 +1,14 @@
+E:\Yazılım Mühendisliği\Examples\18_06_2025_Examples\bin\Debug\net8.0\18_06_2025_Examples.exe
+E:\Yazılım Mühendisliği\Examples\18_06_2025_Examples\bin\Debug\net8.0\18_06_2025_Examples.deps.json
+E:\Yazılım Mühendisliği\Examples\18_06_2025_Examples\bin\Debug\net8.0\18_06_2025_Examples.runtimeconfig.json
+E:\Yazılım Mühendisliği\Examples\18_06_2025_Examples\bin\Debug\net8.0\18_06_2025_Examples.dll
+E:\Yazılım Mühendisliği\Examples\18_06_2025_Examples\bin\Debug\net8.0\18_06_2025_Examples.pdb
+E:\Yazılım Mühendisliği\Examples\18_06_2025_Examples\obj\Debug\net8.0\18_06_2025_Examples.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yazılım Mühendisliği\Examples\18_06_2025_Examples\obj\Debug\net8.0\18_06_2025_Examples.AssemblyInfoInputs.cache
+E:\Yazılım Mühendisliği\Examples\18_06_2025_Examples\obj\Debug\net8.0\18_06_2025_Examples.AssemblyInfo.cs
+E:\Yazılım Mühendisliği\Examples\18_06_2025_Examples\obj\Debug\net8.0\18_06_2025_Examples.csproj.CoreCompileInputs.cache
+E:\Yazılım Mühendisliği\Examples\18_06_2025_Examples\obj\Debug\net8.0\18_06_2025_Examples.dll
+E:\Yazılım Mühendisliği\Examples\18_06_2025_Examples\obj\Debug\net8.0\refint\18_06_2025_Examples.dll
+E:\Yazılım Mühendisliği\Examples\18_06_2025_Examples\obj\Debug\net8.0\18_06_2025_Examples.pdb
+E:\Yazılım Mühendisliği\Examples\18_06_2025_Examples\obj\Debug\net8.0\18_06_2025_Examples.genruntimeconfig.cache
+E:\Yazılım Mühendisliği\Examples\18_06_2025_Examples\obj\Debug\net8.0\ref\18_06_2025_Examples.dll
