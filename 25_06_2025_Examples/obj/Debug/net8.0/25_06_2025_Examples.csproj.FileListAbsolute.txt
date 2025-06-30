@@ -1,0 +1,14 @@
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\25_06_2025_Examples\bin\Debug\net8.0\25_06_2025_Examples.exe
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\25_06_2025_Examples\bin\Debug\net8.0\25_06_2025_Examples.deps.json
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\25_06_2025_Examples\bin\Debug\net8.0\25_06_2025_Examples.runtimeconfig.json
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\25_06_2025_Examples\bin\Debug\net8.0\25_06_2025_Examples.dll
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\25_06_2025_Examples\bin\Debug\net8.0\25_06_2025_Examples.pdb
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\25_06_2025_Examples\obj\Debug\net8.0\25_06_2025_Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\25_06_2025_Examples\obj\Debug\net8.0\25_06_2025_Examples.AssemblyInfoInputs.cache
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\25_06_2025_Examples\obj\Debug\net8.0\25_06_2025_Examples.AssemblyInfo.cs
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\25_06_2025_Examples\obj\Debug\net8.0\25_06_2025_Examples.csproj.CoreCompileInputs.cache
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\25_06_2025_Examples\obj\Debug\net8.0\25_06_2025_Examples.dll
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\25_06_2025_Examples\obj\Debug\net8.0\refint\25_06_2025_Examples.dll
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\25_06_2025_Examples\obj\Debug\net8.0\25_06_2025_Examples.pdb
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\25_06_2025_Examples\obj\Debug\net8.0\25_06_2025_Examples.genruntimeconfig.cache
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\25_06_2025_Examples\obj\Debug\net8.0\ref\25_06_2025_Examples.dll
