@@ -62,7 +62,7 @@
             //}
             #endregion
             #region Soru3: 1-50 arasındaki sayıların içinde 7'e tam bölünenleri ekrana teker teker yazdırınız.
-            //for (int sayi=0;sayi<=50;sayi++) 
+            //for (int sayi=1;sayi<=50;sayi++) 
             //{ 
             //    Console.WriteLine(sayi);
             //    if (sayi%7==0)
