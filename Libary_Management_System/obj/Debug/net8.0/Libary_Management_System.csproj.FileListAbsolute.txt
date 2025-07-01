@@ -1,0 +1,14 @@
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Libary_Management_System\bin\Debug\net8.0\Libary_Management_System.exe
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Libary_Management_System\bin\Debug\net8.0\Libary_Management_System.deps.json
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Libary_Management_System\bin\Debug\net8.0\Libary_Management_System.runtimeconfig.json
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Libary_Management_System\bin\Debug\net8.0\Libary_Management_System.dll
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Libary_Management_System\bin\Debug\net8.0\Libary_Management_System.pdb
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Libary_Management_System\obj\Debug\net8.0\Libary_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Libary_Management_System\obj\Debug\net8.0\Libary_Management_System.AssemblyInfoInputs.cache
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Libary_Management_System\obj\Debug\net8.0\Libary_Management_System.AssemblyInfo.cs
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Libary_Management_System\obj\Debug\net8.0\Libary_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Libary_Management_System\obj\Debug\net8.0\Libary_Management_System.dll
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Libary_Management_System\obj\Debug\net8.0\refint\Libary_Management_System.dll
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Libary_Management_System\obj\Debug\net8.0\Libary_Management_System.pdb
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Libary_Management_System\obj\Debug\net8.0\Libary_Management_System.genruntimeconfig.cache
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Libary_Management_System\obj\Debug\net8.0\ref\Libary_Management_System.dll
