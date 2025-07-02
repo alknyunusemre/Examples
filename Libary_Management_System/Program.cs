@@ -162,76 +162,82 @@
                 Console.WriteLine("______________________________________________\n");
                 Console.ResetColor();
             }
-            Console.Clear();
-            Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.WriteLine("--KİTAP ÖDÜNÇ AL / İADE ET--");
-            Console.WriteLine("____________________________\n");
-            Console.ResetColor();
-            Console.WriteLine("1. Ödünç Alınacak Ürün");
-            Console.WriteLine("2. İade Edilecek Ürün");
-            Console.Write("\n Lütfen Yapıcağınız işlemin Numarasını Seçiniz(1/2):");
-            short secim = Convert.ToInt16(Console.ReadLine());
-            Console.Write("Lütfen 1 ve "+ limit + " Arasında İşlem Yapmak İstediğiniz Kitabın Numarasını Giriniz: ");
-            int islem = Convert.ToInt32(Console.ReadLine());
-            if (islem<1 || islem>limit) 
+            else
             {
+
+
                 Console.Clear();
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("GEÇERSİZ KİTAP NUMARASI!!!");
-                Console.WriteLine("__________________________");
+                Console.ForegroundColor = ConsoleColor.Cyan;
+                Console.WriteLine("--KİTAP ÖDÜNÇ AL / İADE ET--");
+                Console.WriteLine("____________________________\n");
                 Console.ResetColor();
-                //AnaMenuyuGoster();
-            }
-            if (secim == 1)
-            {
-                for (int i = 0; i < limit; i++)
+                Console.WriteLine("1. Ödünç Alınacak Ürün");
+                Console.WriteLine("2. İade Edilecek Ürün");
+                Console.Write("\n Lütfen Yapıcağınız işlemin Numarasını Seçiniz(1/2):");
+                short secim = Convert.ToInt16(Console.ReadLine());
+                Console.Write("Lütfen 1 ve " + limit + " Arasında İşlem Yapmak İstediğiniz Kitabın Numarasını Giriniz: ");
+                int islem = Convert.ToInt32(Console.ReadLine());
+                if (islem < 1 || islem > limit)
                 {
-                    if (kitapdurumu[i])
-                    {
-                        Console.ForegroundColor = ConsoleColor.Yellow;
-                        Console.WriteLine("Bu Kitap Ödünç Alınmış.");
-                        Console.ResetColor();
-                   // AnaMenuyuGoster();
-                        
-                    }
-                    else
-                    {
-                        kitapdurumu[i] = true;
-                        Console.ForegroundColor = ConsoleColor.Green;
-                        Console.WriteLine("Kitap Başarıyla Ödünç Alındı!");
-                        Console.ResetColor();
+                    Console.Clear();
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("GEÇERSİZ KİTAP NUMARASI!!!");
+                    Console.WriteLine("__________________________");
+                    Console.ResetColor();
                     //AnaMenuyuGoster();
-                    }
                 }
-            }
-            else if(secim ==2)
-            {
-                for (int i = 0; i < limit; i++)
+                if (secim == 1)
                 {
-                    if (kitapdurumu[i]) 
+                    for (int i = 0; i < limit; i++)
                     {
-                        kitapdurumu[i] =false;
-                        Console.ForegroundColor = ConsoleColor.Green;
-                        Console.WriteLine("Kitap Başarıyla İade Edildi!");
-                        Console.ResetColor();
-                       // AnaMenuyuGoster();
-                    }
-                    else 
-                    {
-                        Console.ForegroundColor = ConsoleColor.Yellow;
-                        Console.WriteLine("Bu Kitap Zaten Rafta(Ödünç Alınmamış)");
-                        Console.ResetColor();
-                        //AnaMenuyuGoster();
+                        if (kitapdurumu[i])
+                        {
+                            Console.ForegroundColor = ConsoleColor.Yellow;
+                            Console.WriteLine("Bu Kitap Ödünç Alınmış.");
+                            Console.ResetColor();
+                            // AnaMenuyuGoster();
+
+                        }
+                        else
+                        {
+                            kitapdurumu[i] = true;
+                            Console.ForegroundColor = ConsoleColor.Green;
+                            Console.WriteLine("Kitap Başarıyla Ödünç Alındı!");
+                            Console.ResetColor();
+                            //AnaMenuyuGoster();
+                        }
                     }
                 }
-            }
-            else 
-            {
-                Console.Clear();
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("GEÇERSİZ İŞLEM SEÇİMİ");
-                Console.ResetColor();
-               // AnaMenuyuGoster();
+
+                else if (secim == 2)
+                {
+                    for (int i = 0; i < limit; i++)
+                    {
+                        if (kitapdurumu[i])
+                        {
+                            kitapdurumu[i] = false;
+                            Console.ForegroundColor = ConsoleColor.Green;
+                            Console.WriteLine("Kitap Başarıyla İade Edildi!");
+                            Console.ResetColor();
+                            // AnaMenuyuGoster();
+                        }
+                        else
+                        {
+                            Console.ForegroundColor = ConsoleColor.Yellow;
+                            Console.WriteLine("Bu Kitap Zaten Rafta(Ödünç Alınmamış)");
+                            Console.ResetColor();
+                            //AnaMenuyuGoster();
+                        }
+                    }
+                }
+                else
+                {
+                    Console.Clear();
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("GEÇERSİZ İŞLEM SEÇİMİ");
+                    Console.ResetColor();
+                    // AnaMenuyuGoster();
+                }
             }
         }
     }
