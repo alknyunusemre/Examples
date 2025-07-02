@@ -112,7 +112,7 @@
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("\nKitapları Listeleme İşlemi Başladı...");
             Console.ResetColor();
-            // Kitap listeleme işlemleri burada yapılacak.
+            
             if (limit == 0) 
             {
                 
@@ -122,6 +122,8 @@
                 Console.ResetColor();
                 
             }
+            else
+            {
             Console.Clear();
             for (int i=0; i<limit;i++) 
             {
@@ -142,6 +144,7 @@
                     Console.WriteLine("_______\n");
                     Console.ResetColor();
                 }
+            }
             }
             
 
