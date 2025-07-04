@@ -1,0 +1,14 @@
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Customer_relationship_management\bin\Debug\net8.0\Customer_relationship_management.exe
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Customer_relationship_management\bin\Debug\net8.0\Customer_relationship_management.deps.json
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Customer_relationship_management\bin\Debug\net8.0\Customer_relationship_management.runtimeconfig.json
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Customer_relationship_management\bin\Debug\net8.0\Customer_relationship_management.dll
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Customer_relationship_management\bin\Debug\net8.0\Customer_relationship_management.pdb
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Customer_relationship_management\obj\Debug\net8.0\Customer_relationship_management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Customer_relationship_management\obj\Debug\net8.0\Customer_relationship_management.AssemblyInfoInputs.cache
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Customer_relationship_management\obj\Debug\net8.0\Customer_relationship_management.AssemblyInfo.cs
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Customer_relationship_management\obj\Debug\net8.0\Customer_relationship_management.csproj.CoreCompileInputs.cache
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Customer_relationship_management\obj\Debug\net8.0\Customer_relationship_management.dll
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Customer_relationship_management\obj\Debug\net8.0\refint\Customer_relationship_management.dll
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Customer_relationship_management\obj\Debug\net8.0\Customer_relationship_management.pdb
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Customer_relationship_management\obj\Debug\net8.0\Customer_relationship_management.genruntimeconfig.cache
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Customer_relationship_management\obj\Debug\net8.0\ref\Customer_relationship_management.dll
