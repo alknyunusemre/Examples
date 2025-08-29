@@ -8,23 +8,33 @@ namespace Restaurant_Automation
 {
     internal class Menü
     {
+        internal static List<string> pizza = new List<string> {"Margaritta","Karışık"};
+        internal static List<string> salata = new List<string> { "Çoban Salata", "Sezar Salata","Ton Balıklı Salata" };
 
-        internal static List<string> foods = new List<string>() { "Hamburger", "Pizza", "Döner" };
+        internal static void Menu()
+        {
+            Console.WriteLine("--- MENÜ ---\n");
+            Console.WriteLine("1- YİYECEKLER");
+            Console.WriteLine("2- İÇECEKLER");
+            Console.WriteLine("3- TATLILAR\n");
+            Console.WriteLine("SEÇİMİNİZİ YAPINIZ");
+            string select = Console.ReadLine()!;
+            int selected;
+            if(int.TryParse(select, out selected)) 
+            {
+                switch (selected) 
+                {
+                    case 1:
+                        
+                        break;
+                    case 2:
+                        break;
+                    case 3:
+                        break;
+                }
+            }
 
-        internal static List<string> drinks = new List<string>() { "Kola", "Soda", "Ayran" };
-
-        internal static List<string> sweets = new List<string>() { "Waffle", "Cheesecake", "Çikolatalı Pasta" };
-
-        internal static List<int> foodsPrice = new List<int>(300 + 250 + 150);
-
-        internal static List<int> drinksPrice = new List<int>() { 70 + 30 + 30 };
-
-        internal static List<int> sweetsPrice = new List<int>() { 300 + 150 + 150 };        
-    
-        
-        internal static List<int> tableNumbers = new List<int>();
-        internal static int masaSayisi = 20;            
-       
+        }
     }
 
 }
