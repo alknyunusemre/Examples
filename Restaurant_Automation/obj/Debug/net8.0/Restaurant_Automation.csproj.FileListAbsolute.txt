@@ -1,0 +1,14 @@
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Restaurant_Automation\obj\Debug\net8.0\Restaurant_Automation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Restaurant_Automation\obj\Debug\net8.0\Restaurant_Automation.AssemblyInfoInputs.cache
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Restaurant_Automation\obj\Debug\net8.0\Restaurant_Automation.AssemblyInfo.cs
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Restaurant_Automation\obj\Debug\net8.0\Restaurant_Automation.csproj.CoreCompileInputs.cache
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Restaurant_Automation\bin\Debug\net8.0\Restaurant_Automation.exe
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Restaurant_Automation\bin\Debug\net8.0\Restaurant_Automation.deps.json
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Restaurant_Automation\bin\Debug\net8.0\Restaurant_Automation.runtimeconfig.json
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Restaurant_Automation\bin\Debug\net8.0\Restaurant_Automation.dll
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Restaurant_Automation\bin\Debug\net8.0\Restaurant_Automation.pdb
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Restaurant_Automation\obj\Debug\net8.0\Restaurant_Automation.dll
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Restaurant_Automation\obj\Debug\net8.0\refint\Restaurant_Automation.dll
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Restaurant_Automation\obj\Debug\net8.0\Restaurant_Automation.pdb
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Restaurant_Automation\obj\Debug\net8.0\Restaurant_Automation.genruntimeconfig.cache
+C:\Users\yunusemre.alkan\Desktop\source\repos\Examples\Restaurant_Automation\obj\Debug\net8.0\ref\Restaurant_Automation.dll
