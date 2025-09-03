@@ -1,0 +1,15 @@
+C:\Users\RABİA\source\repos\Examples2\Restaurant_Automation\bin\Debug\net8.0\Restaurant_Automation.exe
+C:\Users\RABİA\source\repos\Examples2\Restaurant_Automation\bin\Debug\net8.0\Restaurant_Automation.deps.json
+C:\Users\RABİA\source\repos\Examples2\Restaurant_Automation\bin\Debug\net8.0\Restaurant_Automation.runtimeconfig.json
+C:\Users\RABİA\source\repos\Examples2\Restaurant_Automation\bin\Debug\net8.0\Restaurant_Automation.dll
+C:\Users\RABİA\source\repos\Examples2\Restaurant_Automation\bin\Debug\net8.0\Restaurant_Automation.pdb
+C:\Users\RABİA\source\repos\Examples2\Restaurant_Automation\obj\Debug\net8.0\Restaurant_Automation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RABİA\source\repos\Examples2\Restaurant_Automation\obj\Debug\net8.0\Restaurant_Automation.AssemblyInfoInputs.cache
+C:\Users\RABİA\source\repos\Examples2\Restaurant_Automation\obj\Debug\net8.0\Restaurant_Automation.AssemblyInfo.cs
+C:\Users\RABİA\source\repos\Examples2\Restaurant_Automation\obj\Debug\net8.0\Restaurant_Automation.csproj.CoreCompileInputs.cache
+C:\Users\RABİA\source\repos\Examples2\Restaurant_Automation\obj\Debug\net8.0\Restaurant_Automation.sourcelink.json
+C:\Users\RABİA\source\repos\Examples2\Restaurant_Automation\obj\Debug\net8.0\Restaurant_Automation.dll
+C:\Users\RABİA\source\repos\Examples2\Restaurant_Automation\obj\Debug\net8.0\refint\Restaurant_Automation.dll
+C:\Users\RABİA\source\repos\Examples2\Restaurant_Automation\obj\Debug\net8.0\Restaurant_Automation.pdb
+C:\Users\RABİA\source\repos\Examples2\Restaurant_Automation\obj\Debug\net8.0\Restaurant_Automation.genruntimeconfig.cache
+C:\Users\RABİA\source\repos\Examples2\Restaurant_Automation\obj\Debug\net8.0\ref\Restaurant_Automation.dll
